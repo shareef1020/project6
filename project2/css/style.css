@@ -1,0 +1,43 @@
+.nav-section{
+    float: left;
+    width: 100%;
+    background-color: red;
+}
+li{
+    display: inline;
+    margin: 0 0 0 10rem;
+    background-color: aqua;
+    border-style: solid;
+    width: 100%;
+}
+input{
+    width: 25%;
+    background-color: orange;
+    border-style: solid;
+    text-align: center;
+    font-size: 25px;
+    margin: 2% 0% 0% 0%;
+}
+form{
+    width: 100%;
+    background-color: pink;
+    border-style: solid;
+    text-align: center;
+    font-size: 25px;
+}
+.form-section{
+    text-align: center;
+    margin: 2% 0% 0% 0%;
+}
+.image{
+    background-color: springgreen;
+}
+.para{
+    float: right;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    background-color: rosybrown;
+    margin: 5% 2% 0% 0%;
+    padding: 10% 10% 10% 5%;
+}
